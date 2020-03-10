@@ -15,4 +15,4 @@ b d 3 2 d 5 5 5 d d d 4 4 . . .
 b 5 5 5 5 d d 4 4 4 4 . . . . . 
 4 d d d 4 4 4 . . . . . . . . . 
 4 4 4 4 . . . . . . . . . . . . 
-`</field></shadow></value><value name="kind"><shadow type="spritekind" id="VHn~lH6x:GjF?J)FLB9U"><field name="MEMBER">Player</field></shadow></value></block></value></block></next></block></statement></block></xml>
+`</field></shadow></value><value name="kind"><shadow type="spritekind" id="VHn~lH6x:GjF?J)FLB9U"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="game_control_sprite" id="66ObRot!VwmwSC6,1D5("><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="false"></mutation><value name="sprite"><block type="variables_get" id="nF(Jg}S86:ZM@%/tCU#V"><field name="VAR" id="Am#gN5W_LU+{.(b8z?=f">mySprite</field></block></value></block></next></block></next></block></statement></block></xml>
